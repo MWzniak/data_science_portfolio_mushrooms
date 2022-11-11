@@ -1,0 +1,4 @@
+The goal is to determine if a mushroom is safe to eat.
+Target variable = 'class'
+Dataset description and download:
+https://archive.ics.uci.edu/ml/datasets/mushroom
